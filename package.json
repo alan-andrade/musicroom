@@ -1,0 +1,16 @@
+{
+  "name": "musicroom",
+  "version": "1.0.0",
+  "description": "music compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "r-json": "^1.2.3",
+    "slack-node": "^0.2.0",
+    "youtube-api": "^2.0.2"
+  }
+}
